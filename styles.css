@@ -10155,14 +10155,20 @@ h1{
   color: yellow;
 }
 
+.contactPage{
+  display: flex;
+  justify-content: center;
+}
+
   form {
   padding: 25px;
   box-shadow: 0 2px 5px #f5f5f5; 
   background: linear-gradient(orange,hotpink);
   width: 90vw;
   height:94vh;
-  margin-left: 25vw;
   margin-top: 10vh;
+  text-align: center;
+
   }
 
 
@@ -10202,3 +10208,6 @@ h1{
   }
  
 }
+
+
+
